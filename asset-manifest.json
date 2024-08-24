@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/milista/static/css/main.2bea5961.css",
+    "main.js": "/milista/static/js/main.4e45befb.js",
+    "static/js/453.ffbcad76.chunk.js": "/milista/static/js/453.ffbcad76.chunk.js",
+    "index.html": "/milista/index.html",
+    "main.2bea5961.css.map": "/milista/static/css/main.2bea5961.css.map",
+    "main.4e45befb.js.map": "/milista/static/js/main.4e45befb.js.map",
+    "453.ffbcad76.chunk.js.map": "/milista/static/js/453.ffbcad76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bea5961.css",
+    "static/js/main.4e45befb.js"
+  ]
+}
